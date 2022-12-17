@@ -1,0 +1,93 @@
+.card img {
+  width: 200px;
+}
+.card h5 {
+  text-align: center;
+}
+.card p {
+  text-align: center;
+}
+.director img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  height: 250px;
+  display: inline-block;
+}
+.battlestar img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  height: 250px;
+  display: inline-block;
+}
+.tuna img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  height: 250px;
+  display: inline-block;
+}
+.director {
+  margin-bottom: 10px;
+  width: 30%;
+}
+.battlestar {
+  margin-bottom: 10px;
+  width: 30%;
+}
+.nav-text {
+  font-size: x-large;
+  width: 30%;
+}
+.secretary img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  height: 250px;
+  display: inline-block;
+}
+.music img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  height: 250px;
+  display: inline-block;
+}
+.traitor img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  height: 250px;
+  display: inline-block;
+}
+.director {
+  margin-bottom: 10px;
+  width: 30%;
+}
+.battlestar {
+  margin-bottom: 10px;
+  width: 30%;
+}
+.tuna {
+  margin-bottom: 10px;
+  width: 30%;
+}
+.secretary {
+  margin-bottom: 10px;
+  width: 30%;
+}
+.music {
+  margin-bottom: 10px;
+  width: 30%;
+}
+.traitor {
+  margin-bottom: 10px;
+  width: 30%;
+}
